@@ -1,8 +1,6 @@
-    COMP 3104 DevOps teaches students the core practices and tools used
-by DevOps engineers to improve productivity in software development.
-    The course covers topics like continuous integration, deployment, containerization,
-and version control.
-    Students gain hands-on experience while learning to solve real business problems,
-collaborate in IT teams, and use cloud-based tools.
-    It also helps students understand the differences between monolithic and
-microservice architectures, and prepares them to make effective decisions as future DevOps engineers.
+COMP 3104 DevOps teaches the core practices and tools used to 
+improve productivity in software development. The course covers integration,
+deployment, containerization, version control, and cloud tools,
+while giving students hands-on experience solving real problems.
+It also explores monolithic vs. microservice architectures,
+preparing students to make effective decisions as future DevOps engineers.
