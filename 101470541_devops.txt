@@ -4,3 +4,5 @@ by DevOps engineers to improve productivity in software development.
 and version control.
     Students gain hands-on experience while learning to solve real business problems,
 collaborate in IT teams, and use cloud-based tools.
+    It also helps students understand the differences between monolithic and
+microservice architectures, and prepares them to make effective decisions as future DevOps engineers.
