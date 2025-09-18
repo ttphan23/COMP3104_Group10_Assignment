@@ -1,7 +1,7 @@
 # COMP3104_Group10_Assignment
 
 ## Group Members
-- **Leader:** Thinh Phan (1023756) - [GitHub](https://github.com/ttphan23)
+- **Leader:** Thinh Phan (101470541) - [GitHub](https://github.com/ttphan23)
 - **Member 2:** NAME (STUDENTID) - [GitHub](LINK TO YOUR GITHUB)
 - **Member 3:**  NAME (STUDENTID) - [GitHub](LINK TO YOUR GITHUB)
 
