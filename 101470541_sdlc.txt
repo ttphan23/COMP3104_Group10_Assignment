@@ -1,5 +1,7 @@
-    Learning DevOps is important because it helps teams work together 
+Learning DevOps is important because it helps teams work together 
 more smoothly and deliver software faster. 
-    It improves efficiency through automation, continuous integration, and deployment. 
-    DevOps also ensures better quality, reliability, and 
+It improves efficiency through automation, continuous integration, and deployment. 
+DevOps also ensures better quality, reliability, and 
 quicker responses to changes or problems.
+By supporting collaboration and modern tools, it plays a key role
+in the software development cycle.
