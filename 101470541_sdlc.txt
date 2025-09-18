@@ -6,4 +6,4 @@ which reduces errors and saves time.
 problems by making releases safer and more consistent.
     By supporting collaboration, monitoring, and the use of modern cloud-based tools,
 it plays a key role in every stage of the software development cycle and
-prepares teams to meet business needs effectively.
+prepares teams to meet business needs effectivly.
