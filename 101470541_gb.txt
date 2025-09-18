@@ -1,7 +1,5 @@
-    George Brown College is a public college in Toronto, Ontario and was founded in 1967.
-    It offers many programs in many areas like business, technology, health, and the arts. 
-    The school focuses on practical learning and real-world experience.
-    There are multiple campuses located all over Toronto and welcomes
-a diverse community of students and connects them with industry opportunities.
-    George Brown is also known for its strong ties to local employers, helping graduates 
-gain valuable skills and employment opportunities in today’s job market.
+George Brown College, founded in 1967 in Toronto, Ontario,
+offers programs in business, technology, health, and the arts. 
+It focuses on practical learning and real-world experience, with multiple 
+campuses across the city. Known for strong ties to local employers, 
+the college connects a diverse student community with valuable skills and career opportunities.
