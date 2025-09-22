@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Thinh Phan (101470541) - [GitHub](https://github.com/ttphan23)
-- **Member 2:** NAME (STUDENTID) - [GitHub](LINK TO YOUR GITHUB)
+- **Member 2:** Vy Nguyen (101488823) - [GitHub](https://github.com/vynguyen175)
 - **Member 3:**  NAME (STUDENTID) - [GitHub](LINK TO YOUR GITHUB)
 
 ## Project Description
