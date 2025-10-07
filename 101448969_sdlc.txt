@@ -1,0 +1,2 @@
+Improved collaboration between development and operational teams
+More frequent and faster software releases
