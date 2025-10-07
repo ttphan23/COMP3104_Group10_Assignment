@@ -1,2 +1,4 @@
 Improved collaboration between development and operational teams
 More frequent and faster software releases
+Improved product quality and dependability
+Cost savings and resource optimization
