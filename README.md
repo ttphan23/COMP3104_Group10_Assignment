@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Thinh Phan (101470541) - [GitHub](https://github.com/ttphan23)
 - **Member 2:** Vy Nguyen (101488823) - [GitHub](https://github.com/vynguyen175)
-- **Member 3:**  NAME (STUDENTID) - [GitHub](LINK TO YOUR GITHUB)
+- **Member 3:**  Trish Nguyen (101448969) - [GitHub](https://github.com/kyoloulou)
 
 ## Project Description
 This repository is the collaborative assignment for COMP3104 – DevOps.
