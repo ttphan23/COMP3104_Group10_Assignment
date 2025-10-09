@@ -3,4 +3,4 @@ improve productivity in software development. The course covers integration,
 deployment, containerization, version control, and cloud tools,
 while giving students hands-on experience solving real problems.
 It also explores monolithic vs. microservice architectures,
-preparing students to make effective decisions as future DevOps engineers.
+preparing students to make effective decisions as future DevOps engineers.Added learning outcomes for COMP3104 DevOps.
