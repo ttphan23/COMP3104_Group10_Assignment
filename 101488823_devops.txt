@@ -5,3 +5,4 @@ while giving students hands-on experience solving real problems.
 It also explores monolithic vs. microservice architectures,
 preparing students to make effective decisions as future DevOps engineers.Added learning outcomes for COMP3104 DevOps.
 Mentioned CI/CD pipelines and Git branching.
+DevOps improves collaboration between developers and operations, reducing deployment time and increasing reliability.
